@@ -26,7 +26,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahdi6gh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi6gh&layout=compact&theme=radical)
 
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 ### 📬 Connect with me:
 <a href="https://www.instagram.com/its.mahd1_">
