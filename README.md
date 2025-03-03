@@ -1,11 +1,37 @@
-- 👋 Hi, I’m @Mahdi6gh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning django
-- 📫 How to reach me ig: @its.mahd1_
+## Hi there, I'm Mahdi! 👋
+
+🚀 Passionate about Django, AI, Python, Backend Development, and Telegram Bot Development.
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+### 📌 About Me:
+- 👨‍💻 I’m a Backend Developer specializing in Django & AI.
+- 🤖 Building smart solutions using Python & AI.
+- ⚡ Love automating tasks & developing Telegram bots.
+- 📚 Currently exploring Machine Learning & Deep Learning.
+
+### 🛠️ Technologies & Tools:
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="45" height="45"/>
+</div>
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahdi6gh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi6gh&layout=compact&theme=radical)
+
+
+
+### 📬 Connect with me:
 <a href="https://www.instagram.com/its.mahd1_">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="40" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-<!---
-Mahdi6gh/Mahdi6gh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+⭐️ Feel free to check out my repositories and star your favorite ones!
