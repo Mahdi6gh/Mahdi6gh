@@ -42,7 +42,7 @@
 ![snake gif](https://github.com/Mahdi6gh/Mahdi6gh/blob/output/github-snake-dark.svg)
 
 ### 📬 Connect with me:
-<a href="https://www.instagram.com/its.mahd1_">
+<a href="https://www.instagram.com/its.mahd1_" height="40">
   <img height="40" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
